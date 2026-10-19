@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://www.margaritaturealtor.com/</loc>
+    <lastmod>2026-10-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://www.margaritaturealtor.com/"/>
+    <xhtml:link rel="alternate" hreflang="es-US" href="https://www.margaritaturealtor.com/es/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.margaritaturealtor.com/"/>
+  </url>
+  <url>
+    <loc>https://www.margaritaturealtor.com/es/</loc>
+    <lastmod>2026-10-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://www.margaritaturealtor.com/"/>
+    <xhtml:link rel="alternate" hreflang="es-US" href="https://www.margaritaturealtor.com/es/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.margaritaturealtor.com/"/>
+  </url>
+  <url>
+    <loc>https://www.margaritaturealtor.com/work-with-me/</loc>
+    <lastmod>2026-10-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://www.margaritaturealtor.com/work-with-me/"/>
+    <xhtml:link rel="alternate" hreflang="es-US" href="https://www.margaritaturealtor.com/es/trabajar-conmigo/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.margaritaturealtor.com/work-with-me/"/>
+  </url>
+  <url>
+    <loc>https://www.margaritaturealtor.com/es/trabajar-conmigo/</loc>
+    <lastmod>2026-10-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://www.margaritaturealtor.com/work-with-me/"/>
+    <xhtml:link rel="alternate" hreflang="es-US" href="https://www.margaritaturealtor.com/es/trabajar-conmigo/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.margaritaturealtor.com/work-with-me/"/>
+  </url>
+  <url>
+    <loc>https://www.margaritaturealtor.com/privacy/</loc>
+    <lastmod>2026-10-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://www.margaritaturealtor.com/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="es-US" href="https://www.margaritaturealtor.com/es/privacidad/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.margaritaturealtor.com/privacy/"/>
+  </url>
+  <url>
+    <loc>https://www.margaritaturealtor.com/es/privacidad/</loc>
+    <lastmod>2026-10-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://www.margaritaturealtor.com/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="es-US" href="https://www.margaritaturealtor.com/es/privacidad/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.margaritaturealtor.com/privacy/"/>
+  </url>
+</urlset>
